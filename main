@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name - CV</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f5f7fa;
+      color: #333;
+    }
+
+    header {
+      background-color: #1a1a2e;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+
+    header p {
+      font-size: 1.2em;
+      margin-top: 10px;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    section {
+      margin-bottom: 30px;
+    }
+
+    section h2 {
+      color: #1a1a2e;
+      border-bottom: 2px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    .item {
+      margin-top: 15px;
+    }
+
+    .item h3 {
+      margin: 0;
+      font-size: 1.1em;
+    }
+
+    .item p {
+      margin: 5px 0;
+    }
+
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      padding: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Your Name</h1>
+    <p>Web Developer | Data Analyst | Tech Enthusiast</p>
+    <p>Email: your.email@example.com | LinkedIn: linkedin.com/in/yourname</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Profile</h2>
+      <p>Driven and detail-oriented professional with experience in web development, data analysis, and cloud technologies. Passionate about solving real-world problems through clean, efficient code and data insights.</p>
+    </section>
+
+    <section>
+      <h2>Experience</h2>
+      <div class="item">
+        <h3>Frontend Developer – XYZ Corp</h3>
+        <p>Jan 2021 – Present</p>
+        <p>Built and maintained responsive web applications using React.js, HTML5, and CSS3. Collaborated with backend teams and improved UI performance by 30%.</p>
+      </div>
+      <div class="item">
+        <h3>Data Analyst – ABC Ltd</h3>
+        <p>Jun 2019 – Dec 2020</p>
+        <p>Performed data wrangling and visualization using Python (Pandas, Matplotlib). Developed dashboards and automated reports to assist decision-makers.</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Education</h2>
+      <div class="item">
+        <h3>B.Sc. in Computer Science – University of Example</h3>
+        <p>2015 – 2019</p>
+      </div>
+    </section>
+
+    <section>
+      <h2>Skills</h2>
+      <p>HTML5, CSS3, JavaScript, React, Python, SQL, Git, Excel, Power BI, AWS</p>
+    </section>
+
+    <section>
+      <h2>Certifications</h2>
+      <ul>
+        <li>AWS Certified Cloud Practitioner</li>
+        <li>Google Data Analytics Certificate</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Languages</h2>
+      <p>English (Fluent), Spanish (Intermediate)</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Your Name. All rights reserved.
+  </footer>
+
+</body>
+</html>
